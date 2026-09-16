@@ -1,9 +1,12 @@
 
 
-body {background-color: rgb(190, 215, 228);
- font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+body {
+    background-color: rgb(190, 215, 228);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
 }
 .header {
+    color:blue;
 	text-align: center;
     margin: 10px;
 }
@@ -22,7 +25,6 @@ body {background-color: rgb(190, 215, 228);
 }
 
 .footer{
-    margin-top: 40px;
+    margin-top: 60px;
     font-size: x-small;
-    text-align: right;
 }
