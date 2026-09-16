@@ -4,6 +4,7 @@ body {
     background-color: rgb(190, 215, 228);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
+    margin: 30px;
 }
 .header {
   
