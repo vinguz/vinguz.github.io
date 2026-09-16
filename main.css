@@ -13,7 +13,7 @@ body {
 
 .header a,
 .header a:visited {
-    
+
     color: blue;
     
 }
@@ -31,7 +31,15 @@ body {
     margin-right: auto;
 }
 
+.line {
+    margin-top: 50px;
+    border-top: 1px solid black;
+    display:block;
+        }
+
+
 .footer{
-    margin-top: 60px;
+    margin-top: 20px;
     font-size: x-small;
 }
+
