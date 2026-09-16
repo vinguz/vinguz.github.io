@@ -6,9 +6,16 @@ body {
     font-size: larger;
 }
 .header {
-    color:blue;
+  
 	text-align: center;
     margin: 10px;
+}
+
+.header a,
+.header a:visited {
+    
+    color: blue;
+    
 }
 
 .title {
