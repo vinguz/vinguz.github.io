@@ -32,14 +32,14 @@ body {
 }
 
 .line {
-    margin-top: 30px;
+    margin: 30px 40px;
     border-top: 1px solid black;
     display:block;
         }
 
 
 .footer{
-    margin-top: 20px;
+    text-align: center;
     font-size: small;
 }
 
