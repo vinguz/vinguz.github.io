@@ -1,0 +1,28 @@
+
+
+body {background-color: rgb(190, 215, 228);
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.header {
+	text-align: center;
+    margin: 10px;
+}
+
+.title {
+	text-align: center;
+    margin: 5px;
+}
+
+.image {
+    width: 200px;
+    clip-path: circle(48%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    margin-top: 40px;
+    font-size: x-small;
+    text-align: right;
+}
